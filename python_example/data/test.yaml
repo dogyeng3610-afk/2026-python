@@ -1,0 +1,6 @@
+abc: 123
+name: kim
+subject:
+  korean: 99
+  math: 83
+# python3 -m pip install pyyaml

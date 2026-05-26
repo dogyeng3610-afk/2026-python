@@ -39,3 +39,29 @@
     dict
         a25_dictionary.py
     
+
+## 2026.05.26
+    method
+        a65_isinstance.py  
+        a63_class_student.py
+        a64_class_method.py
+    사칙연산
+        a66_special_method.py
+    data class
+        a67_class_variable.py
+        a69_destructor.py	
+        a70_property.py
+        a71_class_inheritance.py
+        a72_multiple_inheritance.py
+        a98_dataclass.py
+    file descripter serialization(txt, json, yaml, pickle)
+        a42_file_write.py
+        a43_file_read.py
+        a101_json_serialization.py
+        a102_yaml_serialzation.py
+        student_model.py
+        a97_pickle_load_student.py
+    error
+        a47_try_except.py
+    argparser
+        a103_main_argument.py
