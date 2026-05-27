@@ -1,0 +1,10 @@
+README.md
+cpp_hello.pyi
+py.typed
+pyproject.toml
+setup.py
+cpp_hello.egg-info/PKG-INFO
+cpp_hello.egg-info/SOURCES.txt
+cpp_hello.egg-info/dependency_links.txt
+cpp_hello.egg-info/top_level.txt
+src/cpp_hello.cpp

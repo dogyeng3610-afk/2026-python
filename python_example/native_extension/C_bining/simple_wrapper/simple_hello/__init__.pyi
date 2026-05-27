@@ -1,0 +1,11 @@
+class Hello:
+	name: str
+
+	def __init__(self, name: str) -> None: ...
+	def greet(self) -> str: ...
+
+
+def print_hello() -> None: ...
+
+
+__all__ = ["Hello", "print_hello"]

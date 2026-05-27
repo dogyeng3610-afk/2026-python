@@ -39,7 +39,6 @@
     dict
         a25_dictionary.py
     
-
 ## 2026.05.26
     method
         a65_isinstance.py  
@@ -51,17 +50,44 @@
         a67_class_variable.py
         a69_destructor.py	
         a70_property.py
+
         a71_class_inheritance.py
         a72_multiple_inheritance.py
         a98_dataclass.py
     file descripter serialization(txt, json, yaml, pickle)
         a42_file_write.py
         a43_file_read.py
-        a101_json_serialization.py
-        a102_yaml_serialzation.py
+        a111_json_serialization.py
+        a112_yaml_serialzation.py
         student_model.py
         a97_pickle_load_student.py
     error
         a47_try_except.py
     argparser
-        a103_main_argument.py
+        a113_main_argument.py
+
+## 2026.05.27
+    logger
+        a114_logger_example.py
+        a115_matplotlib.py
+    wrapper
+        a101_wrapper_funchtion.py
+        a102_decorator.py
+        a103_time_decorator.py
+    cache
+        a80_fibonacci.py
+        a82_lru_cache.py
+    generator
+        a86_generator.py
+        a87_iteration.py
+
+    multi threading
+        a104_multithreading.py
+        a105_asyncio.tasks.py
+        a106_asyncio_http.py
+        a107_request.py
+    binding
+        a116_c_binding_example.py
+        a117_cpp_binding.py
+        a118_rust_binding.py
+

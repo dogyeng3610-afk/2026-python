@@ -1,0 +1,12 @@
+setup.py
+simple_hello/__init__.py
+simple_hello/__init__.pyi
+simple_hello/_hello_core.c
+simple_hello/_hello_core.pyi
+simple_hello/hello.py
+simple_hello/hello.pyi
+simple_hello.egg-info/PKG-INFO
+simple_hello.egg-info/SOURCES.txt
+simple_hello.egg-info/dependency_links.txt
+simple_hello.egg-info/not-zip-safe
+simple_hello.egg-info/top_level.txt
