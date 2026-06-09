@@ -16,4 +16,7 @@ namespace Color{
     inline const cv::Scalar Gray{128, 128, 128};
     inline const cv::Scalar Orange{0, 165, 255};
     inline const cv::Scalar Purple{128, 0, 128};
+    inline const cv::Scalar Pink{255, 167, 167};
+
+
 }
