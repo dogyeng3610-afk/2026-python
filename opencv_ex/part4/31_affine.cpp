@@ -7,7 +7,7 @@ using namespace cv;
 
 int main()
 {
-    const String folderPath = "/home/aa/kuBig2026/opencv_ex/data/";
+    const String folderPath = "/home/dog0/2026/2026-python/opencv_ex/data/";
     Mat img = imread(folderPath + "lenna.bmp");
     vector<Mat> images;
 

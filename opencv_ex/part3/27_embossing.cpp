@@ -50,7 +50,7 @@ void filter_embossing(Mat &img){
 
 void filter_median()
 {
-    const String folderPath = "/home/aa/kuBig2026/opencv_ex/data/";
+    const String folderPath = "/home/dog0/2026/2026-python/opencv_ex/data/";
     Mat src = imread(folderPath + "lenna.bmp", IMREAD_GRAYSCALE);
 
     if (src.empty())
